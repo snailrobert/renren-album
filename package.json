@@ -11,8 +11,8 @@
   "dependencies": {
     "axer": "0.0.5",
     "cheerio": "^0.22.0",
-    "commander": "^2.9.0",
+    "commander": "^2.20.3",
     "node-rsa": "^0.4.2",
-    "readline-sync": "^1.4.7"
+    "readline-sync": "^1.4.10"
   }
 }
