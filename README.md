@@ -1,5 +1,12 @@
 # 人人网相册获取
 
+## 修改的技术点
+
+### fs模块基于async/await异步读写文件
+https://blog.csdn.net/qq_38355456/article/details/78846208
+
+
+
 ## 前提
 
 所有环境均在 OS X 下操作，不保证 Windows 的兼容性（如果 windows 中无法弹出验证码，可以在 locals 目录下查看）。
